@@ -30,6 +30,10 @@ Before you get started, make sure you have the following dependencies installed 
 - [Eclipse IDE for Java EE Developers](https://www.eclipse.org/downloads/)
 - Component from Eclipse Marketplace
   - [IBM Eclipse Tools for IBM Cloud](https://developer.ibm.com/wasdev/downloads/#asset/tools-IBM_Eclipse_Tools_for_IBM_Cloud)
+  
+  Please use "Eclipse Java EE IDE with IBM Cloud Tools Package" for now.
+http://eclipse.bluemix.net/packages/epp.bmt/
+
   - [IBM Liberty Developer Tools for Eclipse](https://developer.ibm.com/wasdev/downloads/#asset/tools-IBM_Liberty_Developer_Tools_for_Eclipse_Oxygen)
 
 ## Database
